@@ -1,0 +1,33 @@
+import cv2
+import pickle
+import numpy as np
+from insightface.app import FaceAnalysis
+
+app = FaceAnalysis()
+app.prepare(ctx_id=0)
+
+name = input("Enter name: ")
+
+image = cv2.imread("images/user.jpg")
+
+faces = app.get(image)
+
+if len(faces) > 0:
+    embedding = faces[0].embedding
+
+    data = {}
+
+    try:
+        with open("database/face_embeddings.pkl","rb") as f:
+            data = pickle.load(f)
+    except:
+        pass
+
+    data[name] = embedding
+
+    with open("database/face_embeddings.pkl","wb") as f:
+        pickle.dump(data,f)
+
+    print("Face Registered Successfully")
+else:
+    print("No face detected")
