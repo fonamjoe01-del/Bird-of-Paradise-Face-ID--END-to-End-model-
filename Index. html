@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bird-of-Paradise - National Emblem of Papua New Guinea</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+h1 {
+    color: #b22222;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+ul {
+    font-size: 18px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h1>Bird-of-Paradise</h1>
+
+    <img src="bird-of-paradise.jpg" alt="Bird-of-Paradise">
+
+    <p>
+        The Bird-of-Paradise is the national emblem of Papua New Guinea.
+        It represents freedom, beauty, unity, and the rich cultural heritage
+        of the country.
+    </p>
+
+    <h2>Features</h2>
+    <ul>
+        <li>Scientific Name: <i>Paradisaea raggiana</i></li>
+        <li>Habitat: Tropical rainforests of Papua New Guinea</li>
+        <li>Diet: Fruits, berries, and insects</li>
+        <li>Known for its colorful feathers and courtship dance</li>
+    </ul>
+</div>
+
+</body>
+</html>
