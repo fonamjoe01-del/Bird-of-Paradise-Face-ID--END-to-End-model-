@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>National Emblem of Papua New Guinea</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    margin:0;
+    padding:0;
+}
+
+header{
+    background:#c62828;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    background:white;
+    margin-top:20px;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+img{
+    width:100%;
+    max-width:500px;
+    display:block;
+    margin:20px auto;
+    border-radius:10px;
+}
+
+h2{
+    color:#c62828;
+}
+
+footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:15px;
+    margin-top:20px;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+<h1>National Emblem of Papua New Guinea</h1>
+</header>
+
+<div class="container">
+
+<h2>Bird-of-Paradise</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Paradisaea_raggiana_-_Raggiana_Bird-of-paradise.jpg"
+alt="Raggiana Bird-of-Paradise">
+
+<p>
+The <strong>Bird-of-Paradise</strong> is the national emblem of Papua New Guinea (PNG).
+The species represented is the <strong>Raggiana Bird-of-Paradise (Paradisaea raggiana)</strong>.
+It is one of the world's most beautiful birds and is famous for its brilliant red-orange
+plumes, yellow head, emerald-green throat, and spectacular courtship dance.
+</p>
+
+<h2>Description</h2>
+
+<p>
+The Bird-of-Paradise belongs to the family Paradisaeidae and lives mainly in the tropical
+rainforests of Papua New Guinea. Males are brightly coloured and have long ornamental
+tail feathers, while females are smaller and brown in colour for camouflage.
+</p>
+
+<h2>Habitat</h2>
+
+<ul>
+<li>Tropical rainforests</li>
+<li>Forest edges</li>
+<li>Mountain forests</li>
+<li>Lowland forests</li>
+</ul>
+
+<h2>Diet</h2>
+
+<ul>
+<li>Fruits</li>
+<li>Berries</li>
+<li>Seeds</li>
+<li>Insects</li>
+<li>Small invertebrates</li>
+</ul>
+
+<h2>Characteristics</h2>
+
+<ul>
+<li>Scientific Name: <em>Paradisaea raggiana</em></li>
+<li>Family: Paradisaeidae</li>
+<li>Average Length: 34 cm</li>
+<li>Lifespan: 8–15 years in the wild</li>
+<li>Colour: Red-orange plumes, yellow head, green throat</li>
+<li>Behaviour: Famous for elaborate courtship dances</li>
+</ul>
+
+<h2>Importance to Papua New Guinea</h2>
+
+<p>
+The Bird-of-Paradise symbolizes freedom, beauty, pride, cultural diversity, and the rich
+natural heritage of Papua New Guinea. It appears on the National Coat of Arms together
+with a ceremonial spear and a Kundu drum, representing the traditions and unity of the
+people of PNG. The bird also appears on the national flag, government emblems, and many
+official documents.
+</p>
+
+<h2>Interesting Facts</h2>
+
+<ul>
+<li>There are over 40 species of Birds-of-Paradise.</li>
+<li>Papua New Guinea is home to most of these species.</li>
+<li>The male performs elaborate dances to attract females.</li>
+<li>The Raggiana Bird-of-Paradise has been the national emblem since Papua New Guinea gained independence in 1975.</li>
+</ul>
+
+</div>
+
+<footer>
+&copy; 2026 Papua New Guinea National Emblem Project
+</footer>
+
+</body>
+</html>
